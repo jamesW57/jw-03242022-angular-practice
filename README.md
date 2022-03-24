@@ -7,7 +7,7 @@ Components make up a whole and exchange data through interactive, parent-child r
 This is an introduction to Angular, a web application that sells mobile devices.
 Components, such as alerts, shipping, and details, are routed and called on in order sell a product.
 
-![](screenshots/alerts.png)
+![](images/alerts.png)
 ![](screenshots/cart.png)
 ![](screenshots/shipping.png)
 ![](screenshots/checkout_form.png)
